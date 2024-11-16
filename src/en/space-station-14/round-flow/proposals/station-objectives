@@ -1,0 +1,78 @@
+# Station Objectives
+
+| Designers | Implemented | Github Links |
+|---|---|---|
+| Everturning | :x: No | TBD |
+
+## Overview
+
+Station objectives are a collective goal that brings the station together to do something great. It requires a lot of work, money, and building, but in the end it’s always something worthwhile. There will be around 5-6 possible structures that can be loaded into the game. I’m being intentionally vague because the projects are extremely different from one another.
+
+## Background
+
+Currently, the station isn’t adding anything lorewise. As of right now, the objective is to prevent it from being destroyed, and with no plan on adding the player economy, there isn’t a sort of “make the most money” capitalist angle. However, in SS13, the station DOES have a purpose - as a research and development center.
+
+So, the intention of this document is made clear - explain why the station exists in-universe, and draw from our predecessor to bring the station together.
+
+## Project DangerKillShadowMurder
+
+In every vault there will be a manila folder with a red stamp mark on it saying “TOP SECRET”, though this is just for flavor and visual recognizability. Upon being used inhand (like the nuke auth folder), it will spawn a paper detailing the instructions on how to build the current objective, and it will add the gamerule relevant to the paper. Before this point, none of the components needed will be available to players.
+
+With that, we move on to the actual things that the doc is about.
+
+## The Objectives
+
+Upon the opening of the folder, a different gamerule will be generated depending on the contents. This will add relevant items to Cargo, Science, and another relevant department.
+
+Let’s begin with the easiest to implement:
+
+## The Meteor Shield
+
+The meteor shield contains a lot of new content, but all of it should be easy to get in the game. At cargo, there will be a moderately priced “satellite crate” that will contain 3 satellites each. Each satellite can only fire at meteors that are unblocked by its FoV, so Cargo will need multiple crates to cover the station.
+At Science, under Industrial, they’ll need to research the satellite computer board for a high point cost, which tracks the satellites in space and can also remotely deactivate them.
+
+The satellites will need to be wired up, connected via multitool to the satellite console, placed into space, and activated. They can only be activated in space! This should be done several times in order to insure the whole station.
+
+**After this has been completed:**
+
+- No more meteors in the places you put the satellites!
+- Overall, meteor storms will be reduced (like in 13)
+- Engineering will drink themselves to death
+
+It should prove difficult to find the right places for optimal coverage, and if someone with poor intentions were to get their hands on the console, the meteor showers would continue. Additionally, finding the beacons in space and emagging them would make them draw meteors to the station, instead of repelling them.
+
+## The DNA Vault
+
+The DNA Vault is a really powerful one, but it also requires a lot of collaboration from the crew. Upon opening the folder, two crates will be added to the cargo request computer.
+
+The first, a circuit board crate for the DNA vault, priced at 12k spesos. It can only be bought once. This will be placed in a machine frame along with wires, 15 matter bins, 5 capacitors, and 5 manipulators. Once it's fully constructed and anchored, it cannot be unanchored, so better do this all in the right place!
+
+The second, a crate full of 5 DNA samplers. These samplers, if you'd believe it, sample DNA. To sample DNA, one would leftclick a living organism and wait for a short doafter to finish.
+
+**What you need to scan to complete the objective:**
+
+- A large variety of DNA from different simplemobs like station pets, infestations, and cargonimals. **ALL SAMPLES MUST BE FROM DIFFERENT SPECIES.**[^1]
+- A wide selection of plant DNA, from different plants that are ready to harvest. At least one sample must be a mutated form of a normal plant (ex. bananas -> mimanas)
+- A collection of DNA from 50% of the initial station population. There must be one of each species. If there is the scenario in which a species is missing from the station, it will not be necessary for the completion of the vault.
+
+Once a DNA sample is collected, leftclick on the vault to deposit it and be able to use the sampler again.
+
+**After the task has been completed:**
+
+- Crew can access the DNA vault to receive two modifications at the cost of a decent amount of genetic damage that can be healed, and whatever drawbacks are involved with the mutation. The mutations are:
+
+**Toxin Adaptation:** You're able to breath plasma, tritium, and any other toxic gas with no repercussions. The drawback is that this isn't really useful.
+
+**Lung Enhancement:** You don't need to breath oxygen or nitrogen, but you take brute damage when in crit and rot a little faster.
+
+**Thermal Regulation:** You are fireproof and take half burn damage, but get dehydrated and starved way faster.
+
+**Feet Tentacles** You are unable to slip, at the cost of having thousands of little slimy tendrils on the bottom of your feet wriggling around. Eugh.
+
+**Temporary Bone Reinforcement:** After drinking milk, major damage reduction to blunt, pierce, and slash for a few minutes.
+
+**Leg Muscle Stimulus:** Move faster.
+
+**Arm Muscle Stimulus:** PUNCH SHIT is your favorite poster. Shoving someone only takes two successes, and it moves them a bit away. You also do 8 damage when you punch.
+
+[^1]: Members of a species will receive one collective blood type, like "Gorilla blood" for gorillas or "Corgi blood" for corgis, or "Ian blood" for Ian. Ian receives his own blood because he's not just a corgi, he's the bestest boy to ever be butchered as an innocent victim of the corporate war.
