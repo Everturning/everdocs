@@ -75,4 +75,37 @@ Once a DNA sample is collected, leftclick on the vault to deposit it and be able
 
 **Arm Muscle Stimulus:** PUNCH SHIT is your favorite poster. Shoving someone only takes two successes, and it moves them a bit away. You also do 8 damage when you punch.
 
+## The RAGE CAGE
+
+Doctors hate this one weird trick to becoming robust!
+
+This one is relatively easy to finish, but it has a cost throughout the round, so it's fair. Start by building the Altar of Rage. This can be found in the construction menu, and crafted several times, but it doesn’t do anything without the actual objective active.
+In order to construct the Altar of Rage, you need:
+- An altar, from the chapel or maints. The AoR is able to be claimed for the thief altar objective because of this.
+- 5 steel and 1 glass
+- Boxing gloves
+- A beating heart
+- A sawn-off shotgun
+
+Once this is completed, anchor the AoR and activate. An 11x11 tile area around it will glow pulsating orange and yellow. You will need to build an arena full of traps, obstacles, and whatever fills you with rage. 
+Once this is complete, you can start the blood matches.
+
+**What are Blood Matches?**
+
+Simply put: Do damage, get mats, fight dirty. In order to start a blood match, click on the AoR, and it will start pulsing with energy, and it will start counting down. Once it says go, you have one minute to do as much damage to other **living** humanoids (Once they die any further damage won’t count!) as possible. Depending on the damage type a fighter does, the altar will produce different materials after the match has concluded.
+
+(TODO: make balancing actually reasonable)
+| Material | Amount | Damage required |
+| Steel | 5 sheets | 15 blunt damage |
+| Glass | 5 sheets | 15 slash |
+| Silver | 1 bar | 10 caustic |
+| Gold | 1 bar | 10 shock |
+| Uranium | 1 sheet | 15 poison/rad |
+
+**Once this is completed:**
+
+- There will be a wealth of mats
+- There will be a shortage of passengers
+- Doom will be eternal
+
 [^1]: Members of a species will receive one collective blood type, like "Gorilla blood" for gorillas or "Corgi blood" for corgis, or "Ian blood" for Ian. Ian receives his own blood because he's not just a corgi, he's the bestest boy to ever be butchered as an innocent victim of the corporate war.
