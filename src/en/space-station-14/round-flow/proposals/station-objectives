@@ -22,7 +22,7 @@ With that, we move on to the actual things that the doc is about.
 
 ## The Objectives
 
-Upon the opening of the folder, a different gamerule will be generated depending on the contents. This will add relevant items to Cargo, Science, and another relevant department.
+Upon the opening of the folder, a different gamerule will be generated depending on the contents. This will add relevant items to Cargo, Science, and any relevant departments.
 
 Let’s begin with the easiest to implement:
 
@@ -31,7 +31,7 @@ Let’s begin with the easiest to implement:
 The meteor shield contains a lot of new content, but all of it should be easy to get in the game. At cargo, there will be a moderately priced “satellite crate” that will contain 3 satellites each. Each satellite can only fire at meteors that are unblocked by its FoV, so Cargo will need multiple crates to cover the station.
 At Science, under Industrial, they’ll need to research the satellite computer board for a high point cost, which tracks the satellites in space and can also remotely deactivate them.
 
-The satellites will need to be wired up, connected via multitool to the satellite console, placed into space, and activated. They can only be activated in space! This should be done several times in order to insure the whole station.
+**Completion Metric:** The satellites will need to be wired up, connected via multitool to the satellite console, placed into space, and activated. They can only be activated in space! This should be done several times in order to ensure the whole station is safe from meteors.
 
 **After this has been completed:**
 
@@ -49,11 +49,11 @@ The first, a circuit board crate for the DNA vault, priced at 12k spesos. It can
 
 The second, a crate full of 5 DNA samplers. These samplers, if you'd believe it, sample DNA. To sample DNA, one would leftclick a living organism and wait for a short doafter to finish.
 
-**What you need to scan to complete the objective:**
+**Completion Metric:**
 
 - A large variety of DNA from different simplemobs like station pets, infestations, and cargonimals. **ALL SAMPLES MUST BE FROM DIFFERENT SPECIES.**[^1]
-- A wide selection of plant DNA, from different plants that are ready to harvest. At least one sample must be a mutated form of a normal plant (ex. bananas -> mimanas)
-- A collection of DNA from 50% of the initial station population. There must be one of each species. If there is the scenario in which a species is missing from the station, it will not be necessary for the completion of the vault.
+- A wide selection of plant DNA, from different plants that are ready to harvest. At least three samples must be a mutated form of a normal plant (ex. bananas -> mimanas)
+- A collection of DNA equal to 50% of the initial station population, though ghost roles such as shuttle pilots will count. There must be one of each species. If there is the scenario in which a species is missing from the station, it will not be necessary for the completion of the vault.
 
 Once a DNA sample is collected, leftclick on the vault to deposit it and be able to use the sampler again.
 
@@ -102,10 +102,12 @@ Simply put: Do damage, get mats, fight dirty. In order to start a blood match, c
 | Gold | 1 bar | 10 shock |
 | Uranium | 1 sheet | 15 poison/rad |
 
+**Completion Metric:** Once 1000 units of blood of any type is spilled in the domain of the Altar, the objective will be marked as completed and and the Altar will double the amount of mats it produces for the same amount of damage.
+
 **Once this is completed:**
 
 - There will be a wealth of mats
 - There will be a shortage of passengers
 - Doom will be eternal
 
-[^1]: Members of a species will receive one collective blood type, like "Gorilla blood" for gorillas or "Corgi blood" for corgis, or "Ian blood" for Ian. Ian receives his own blood because he's not just a corgi, he's the bestest boy to ever be butchered as an innocent victim of the corporate war.
+[^1]: TODO: Members of a species will receive one collective blood type, like "Gorilla blood" for gorillas or "Corgi blood" for corgis, or "Ian blood" for Ian. Ian receives his own blood because he's not just a corgi, he's the bestest boy to ever be butchered as an innocent victim of the corporate war.
