@@ -31,19 +31,23 @@ Let’s begin with the easiest to implement:
 The meteor shield contains a lot of new content, but all of it should be easy to get in the game. At cargo, there will be a moderately priced “satellite crate” that will contain 3 satellites each. Each satellite can only fire at meteors that are unblocked by its FoV, so Cargo will need multiple crates to cover the station.
 At Science, under Industrial, they’ll need to research the satellite computer board for a high point cost, which tracks the satellites in space and can also remotely deactivate them.
 
-**Completion Metric:** The satellites will need to be wired up, connected via multitool to the satellite console, placed into space, and activated. They can only be activated in space! This should be done several times in order to ensure the whole station is safe from meteors.
+**Completion Metric:** The satellites will need to be:
+1. Wired up, 
+2. Connected via multitool to the satellite console, 
+3. Placed into space and activated. They can only be activated in space! Which is good because they aren't much use indoors.
+This should be done several times in order to ensure the whole station is safe from meteors.
 
 **After this has been completed:**
 
 - No more meteors in the places you put the satellites!
-- Overall, meteor storms will be reduced (like in 13)
+- Overall, meteor storms will be reduced greatly
 - Engineering will drink themselves to death
 
-It should prove difficult to find the right places for optimal coverage, and if someone with poor intentions were to get their hands on the console, the meteor showers would continue. Additionally, finding the beacons in space and emagging them would make them draw meteors to the station, instead of repelling them.
+Unfortunately, there is a flaw. Using an EMAG on the meteor shields will reverse their effects, drawing meteors instead of removing them! They can be reset by opening their maintenance panel and multi-tooling the Manager wire.
 
 ## The DNA Vault
 
-The DNA Vault is a really powerful one, but it also requires a lot of collaboration from the crew. Upon opening the folder, two crates will be added to the cargo request computer.
+The DNA Vault is really powerful, but it also requires a lot of collaboration from the crew. Upon opening the folder, two crates will be added to the cargo request computer.
 
 The first, a circuit board crate for the DNA vault, priced at 12k spesos. It can only be bought once. This will be placed in a machine frame along with wires, 15 matter bins, 5 capacitors, and 5 manipulators. Once it's fully constructed and anchored, it cannot be unanchored, so better do this all in the right place!
 
